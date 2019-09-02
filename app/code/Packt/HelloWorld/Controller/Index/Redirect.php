@@ -1,6 +1,10 @@
 <?php
+
 namespace	Packt\HelloWorld\Controller\Index;
-class	Redirect	extends	\Magento\Framework\App\Action\Action
+
+use Magento\Framework\App\Action\Action;
+
+class Redirect extends	Action
 {
     public	function	execute()
     {
