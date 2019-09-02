@@ -2,6 +2,6 @@
 <page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
     <head>
         <css src="css/cookbook.css"	/>
-        <script	src="js/cookbook.js" />
+        <!--<script	src="js/cookbook.js" />-->
     </head>
 </page>

@@ -9,7 +9,7 @@
                 </argument>
             </action>
         </referenceBlock>
-        <referenceBlock	name="logo"	remove="true" />
+        <!--<referenceBlock	name="logo"	remove="true" />-->
         <referenceBlock	name="footer">
             <block	class="Magento\Framework\View\Element\Html\Links"
                       name="footer_links_account"	after="footer_links">
